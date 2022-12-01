@@ -82,8 +82,3 @@ assets of OKX.
 ```shell
 ./build/MerkleValidator --merkle_proof_file ./example/merkle_proof_file.json
 ```
-
-
-
-
-
